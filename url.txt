@@ -1,7 +1,6 @@
-在win7系统下使用TortoiseGit(乌龟git)简单操作Git@OSC:http://my.oschina.net/longxuu/blog/141699
+鍦╳in7绯荤粺涓嬩娇鐢═ortoiseGit(涔岄緹git)绠�鍗曟搷浣淕it@OSC:http://my.oschina.net/longxuu/blog/141699
 
 
 
 github:yyanu   yyanu+QQ
 
-也修改了
